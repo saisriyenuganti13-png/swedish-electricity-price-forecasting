@@ -84,3 +84,12 @@ Future work could include:
 - Walk-forward cross-validation
 - Hyperparameter tuning
 - Feature-importance analysis
+## Visualizations
+
+### SE3 Electricity Price Trend
+
+![SE3 Electricity Price Trend](figures/price_trend_2025.png)
+
+### Model Performance Comparison
+
+![Model Performance Comparison](figures/model_comparison.png)
