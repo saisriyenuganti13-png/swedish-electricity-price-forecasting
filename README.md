@@ -93,3 +93,7 @@ Future work could include:
 ### Model Performance Comparison
 
 ![Model Performance Comparison](figures/model_comparison.png)
+
+### Actual vs Predicted Prices
+
+![Actual vs Predicted Prices](figures/actual_vs_predicted.png)
